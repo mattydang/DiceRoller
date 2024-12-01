@@ -15,6 +15,8 @@ Used to create button to roll dices, number label to choose amount of dice, and 
 
 Used for styling of buttons, titles, margins between items, and layout of program.
 
+Images of dice taken from Wikimedia Commons. [Link](https://commons.wikimedia.org/wiki/Main_Page)
+
 ## Views of Project
 
 <img width="1439" alt="Screenshot 2024-12-01 at 4 04 45 PM" src="https://github.com/user-attachments/assets/f55b5c3e-9c81-4bca-8eff-19330a74a2fd">
