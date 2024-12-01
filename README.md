@@ -19,9 +19,9 @@ Images of dice taken from Wikimedia Commons. [Link](https://commons.wikimedia.or
 
 ## Views of Project
 
-<img width="1439" alt="Screenshot 2024-12-01 at 4 04 45 PM" src="https://github.com/user-attachments/assets/f55b5c3e-9c81-4bca-8eff-19330a74a2fd">
-<img width="1440" alt="Screenshot 2024-12-01 at 4 04 54 PM" src="https://github.com/user-attachments/assets/6dfa47ad-bae6-4da6-a97b-538a8169f942">
-<img width="1434" alt="Screenshot 2024-12-01 at 4 05 08 PM" src="https://github.com/user-attachments/assets/71e6bd50-154d-4a82-b2f0-f311b2e1ca15">
+<img width="1440" alt="Screenshot 2024-12-01 at 4 16 40 PM" src="https://github.com/user-attachments/assets/abc3aa7d-3def-473f-902c-56779305f8a1">
+<img width="1440" alt="Screenshot 2024-12-01 at 4 16 50 PM" src="https://github.com/user-attachments/assets/092975b5-2816-4d36-971d-1c7c8f29dc9f">
+<img width="1440" alt="Screenshot 2024-12-01 at 4 17 00 PM" src="https://github.com/user-attachments/assets/8674b014-9293-461a-bb59-0357d31b5020">
 
 ## Author
 - [Anh Vu Dang](https://github.com/mattydang)
